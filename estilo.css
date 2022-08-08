@@ -9,3 +9,7 @@ text-align: center;
 img{
     width: 320px;
 }
+
+img:hover{
+    transform:scaleX(-1);
+}
